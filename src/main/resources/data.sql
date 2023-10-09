@@ -1,0 +1,1 @@
+INSERT INTO credit-card.roles (id, name) VALUES (1,  'USER');
